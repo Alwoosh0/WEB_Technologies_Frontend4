@@ -1,7 +1,9 @@
 # Assignment 4. Forms and Validation
 
 **Name:** Almansur Maxym
+
 **Group:** IT-2501
+
 **Link:** https://alwoosh0.github.io/WEB_Technologies_Frontend4/
 
 ## Project structure
